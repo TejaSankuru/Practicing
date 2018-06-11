@@ -1,0 +1,203 @@
+ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+a{
+	display: block;
+	padding:6px;
+}
+
+li{
+	float:left;
+}
+li a:hover{
+	color: #48a09b;
+	//background-color:White;
+}
+.navbar{
+	background-color:Black;
+}
+.content{
+	padding-top:120px;
+	padding-bottom:120px;
+}
+.project{
+	width:100%;
+	height:200px;
+	background-repeat:no-repeat;
+	display:block;
+}
+.overlay h4{
+	  display:block;
+	  position:absolute;
+	  bottom:5%;
+	  padding:25px;
+	  color:White;
+}
+
+
+
+.home{
+	background-image: url("http://www.satprnews.com/wp-content/uploads/2017/12/Computer-Assisted-Coding-Software.jpg");
+	background-size: 100%;
+	width:100%;
+	height: 100%;
+	background-repeat:no-repeat;
+
+	}
+	.home h1{
+		font-family: "Dancing Script", cursive;
+		font-weight:800;
+		color:#e33258;
+	}
+	.home h2{
+		color:White;
+		font-weight:700;
+		text-transform: uppercase;
+	}
+	.home ul{
+		margin-left:42%;
+	}
+
+.about{
+background-image: url("http://static1.squarespace.com/static/51b52c1ee4b0f0ee887cd1e8/530b9c94e4b0393d6411db17/5987c268d7bdce820bcef39e/1502147555300/_DSC0038-1.jpg?format=1000w");
+color:white;
+background-size: 100%;
+width:100%;
+height: 100%;
+background-repeat:no-repeat;
+}
+
+blockquote{
+	font-weight:700;
+}
+
+
+.portfolio{
+	 background-image: url("https://jpk-image-hosting.s3.amazonaws.com/chalk.jpg");
+	 background-size: 100%;
+	width:100%;
+	height: 100%;
+	background-repeat:no-repeat;
+}
+.contact{
+	background-image: url("https://jpk-image-hosting.s3.amazonaws.com/can-talk.jpg");
+	background-size: 100%;
+	width:100%;
+	height: 100%;
+	background-repeat:no-repeat;
+}
+.content h2{
+	color:White;
+	text-decoration: Bold;
+	font-weight: 700;
+	 margin-top: 40px;
+      margin-bottom: 40px;
+
+}
+
+
+
+@media only screen and (max-width:480px)
+{ ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+a{
+	display: block;
+	padding:6px;
+}
+
+li{
+	float:left;
+}
+li a:hover{
+	color: #48a09b;
+	//background-color:White;
+}
+.navbar{
+	background-color:Black;
+}
+.content{
+	padding-top:120px;
+	padding-bottom:120px;
+}
+.project{
+	width:100%;
+	height:200px;
+	background-repeat:no-repeat;
+	display:block;
+}
+.overlay h4{
+	  display:block;
+	  position:absolute;
+	  bottom:5%;
+	  padding:25px;
+	  color:White;
+}
+
+
+
+.home{
+	background-image: url("http://www.satprnews.com/wp-content/uploads/2017/12/Computer-Assisted-Coding-Software.jpg");
+	background-size: 100%;
+	width:100%;
+	height: 100%;
+	background-repeat:no-repeat;
+
+	}
+	.home h1{
+		font-family: "Dancing Script", cursive;
+		font-weight:800;
+		color:#e33258;
+	}
+	.home h2{
+		color:White;
+		font-weight:700;
+		text-transform: uppercase;
+	}
+	.home ul{
+		margin-left:42%;
+	}
+
+.about{
+background-image: url("http://static1.squarespace.com/static/51b52c1ee4b0f0ee887cd1e8/530b9c94e4b0393d6411db17/5987c268d7bdce820bcef39e/1502147555300/_DSC0038-1.jpg?format=1000w");
+color:white;
+background-size: 100%;
+width:100%;
+height: 100%;
+background-repeat:no-repeat;
+}
+
+blockquote{
+	font-weight:700;
+}
+
+
+.portfolio{
+	 background-image: url("https://jpk-image-hosting.s3.amazonaws.com/chalk.jpg");
+	 background-size: 100%;
+	width:100%;
+	height: 100%;
+	background-repeat:no-repeat;
+}
+.contact{
+	background-image: url("https://jpk-image-hosting.s3.amazonaws.com/can-talk.jpg");
+	background-size: 100%;
+	width:100%;
+	height: 100%;
+	background-repeat:no-repeat;
+}
+.content h2{
+	color:White;
+	text-decoration: Bold;
+	font-weight: 700;
+	 margin-top: 40px;
+      margin-bottom: 0px;
+
+}
+
+	}
+
